@@ -2,7 +2,7 @@
 
 This repository contains a collection of modules for 3D Slicer on the topic of deep brain stimulation and other applications. See the modules section below for a general overview.
 
-Part of this work was part of the [NA-MIC Project Week](https://projectweek.na-mic.org/PW35_2021_Virtual/) and is still under development.
+Part of this work was part of the [NA-MIC Project Week](https://projectweek.na-mic.org/PW35_2021_Virtual/) and is still under development.  This work builds on work by the [netstim](http://www.netstim.org/) network stimulation laboratory in Berlin.
 
 ## Modules
 
